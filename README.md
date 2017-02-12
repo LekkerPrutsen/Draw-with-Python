@@ -10,5 +10,5 @@ Learn how to make drawings with Python using the Turtle Graphics library.
 [![IMAGE ALT TEXT HERE](https://github.com/LekkerPrutsen/Draw-with-Python/blob/master/images/Youtube_turtle_video.png)](https://youtu.be/qZr_27tvujg)
 
 
-## Excercise: soccer player ##
+## Exercise: soccer player ##
 Can you make this soccer player?
