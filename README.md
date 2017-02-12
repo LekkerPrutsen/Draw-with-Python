@@ -12,4 +12,6 @@ Learn how to make drawings with Python using the Turtle Graphics library.
 
 ## Exercise: soccer player ##
 Can you make this soccer player?
+
 [![IMAGE ALT TEXT HERE](https://github.com/LekkerPrutsen/Draw-with-Python/blob/master/images/Soccer_player.png)]
+
